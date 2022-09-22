@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.exe
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.deps.json
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.runtimeconfig.json
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.dll
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\ref\Factory_Loggers.dll
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\bin\Debug\net5.0\Factory_Loggers.pdb
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.AssemblyInfo.cs
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.dll
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\ref\Factory_Loggers.dll
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.pdb
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.genruntimeconfig.cache
+C:\Users\PC\source\repos\Design_Patterns_Exercises\Factory_Loggers\obj\Debug\net5.0\Factory_Loggers.csproj.AssemblyReference.cache
